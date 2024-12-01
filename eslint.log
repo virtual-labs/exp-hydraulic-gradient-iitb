@@ -1,0 +1,381 @@
+
+/home/runner/work/exp-hydraulic-gradient-iitb/exp-hydraulic-gradient-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-hydraulic-gradient-iitb/exp-hydraulic-gradient-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-hydraulic-gradient-iitb/exp-hydraulic-gradient-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-hydraulic-gradient-iitb/exp-hydraulic-gradient-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-hydraulic-gradient-iitb/exp-hydraulic-gradient-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-hydraulic-gradient-iitb/exp-hydraulic-gradient-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-hydraulic-gradient-iitb/exp-hydraulic-gradient-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-hydraulic-gradient-iitb/exp-hydraulic-gradient-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-hydraulic-gradient-iitb/exp-hydraulic-gradient-iitb/experiment/simulation/js/activity1.js
+   19:24   warning  'MathJax' is not defined                no-undef
+   22:10   warning  'start_act1' is defined but never used  no-unused-vars
+   27:20   warning  'get_collapse_btn_text' is not defined  no-undef
+   32:82   warning  'd' is not defined                      no-undef
+   32:99   warning  'l' is not defined                      no-undef
+   32:236  warning  'h' is not defined                      no-undef
+   33:29   warning  'f' is not defined                      no-undef
+  101:5    warning  'hide_all_steps' is not defined         no-undef
+  102:24   warning  'show_step' is not defined              no-undef
+  103:24   warning  'MathJax' is not defined                no-undef
+  107:5    warning  'v2' is not defined                     no-undef
+  107:20   warning  'h' is not defined                      no-undef
+  107:37   warning  'g' is not defined                      no-undef
+  107:48   warning  'f' is not defined                      no-undef
+  107:52   warning  'l' is not defined                      no-undef
+  107:62   warning  'g' is not defined                      no-undef
+  107:67   warning  'd' is not defined                      no-undef
+  108:5    warning  'h1' is not defined                     no-undef
+  108:26   warning  'v2' is not defined                     no-undef
+  108:41   warning  'g' is not defined                      no-undef
+  109:5    warning  'h2' is not defined                     no-undef
+  109:15   warning  'f' is not defined                      no-undef
+  109:19   warning  'l' is not defined                      no-undef
+  109:33   warning  'v2' is not defined                     no-undef
+  109:49   warning  'g' is not defined                      no-undef
+  109:54   warning  'd' is not defined                      no-undef
+  110:5    warning  'eg' is not defined                     no-undef
+  110:19   warning  'v2' is not defined                     no-undef
+  110:33   warning  'g' is not defined                      no-undef
+  111:5    warning  'fc' is not defined                     no-undef
+  111:19   warning  'v2' is not defined                     no-undef
+  111:33   warning  'g' is not defined                      no-undef
+  113:10   warning  'verify0' is defined but never used     no-unused-vars
+  115:26   warning  'v2' is not defined                     no-undef
+  116:26   warning  'h1' is not defined                     no-undef
+  117:26   warning  'h2' is not defined                     no-undef
+  118:26   warning  'eg' is not defined                     no-undef
+  119:26   warning  'fc' is not defined                     no-undef
+  130:10   warning  'verify_values' is not defined          no-undef
+  130:82   warning  'v2' is not defined                     no-undef
+  134:10   warning  'verify_values' is not defined          no-undef
+  134:82   warning  'h1' is not defined                     no-undef
+  138:10   warning  'verify_values' is not defined          no-undef
+  138:82   warning  'h2' is not defined                     no-undef
+  142:10   warning  'verify_values' is not defined          no-undef
+  142:82   warning  'eg' is not defined                     no-undef
+  146:10   warning  'verify_values' is not defined          no-undef
+  146:82   warning  'fc' is not defined                     no-undef
+  152:25   warning  'v2' is not defined                     no-undef
+  154:25   warning  'h1' is not defined                     no-undef
+  156:25   warning  'h2' is not defined                     no-undef
+  158:25   warning  'eg' is not defined                     no-undef
+  160:25   warning  'fc' is not defined                     no-undef
+  163:5    warning  'activity2' is not defined              no-undef
+
+/home/runner/work/exp-hydraulic-gradient-iitb/exp-hydraulic-gradient-iitb/experiment/simulation/js/activity2.js
+    1:10   warning  'activity2' is defined but never used   no-unused-vars
+   16:5    warning  'maindiv' is not defined                no-undef
+   17:24   warning  'MathJax' is not defined                no-undef
+   19:10   warning  'start_act2' is defined but never used  no-unused-vars
+   24:20   warning  'get_collapse_btn_text' is not defined  no-undef
+   30:19   warning  'H' is not defined                      no-undef
+   30:41   warning  'l1' is not defined                     no-undef
+   30:64   warning  'l2' is not defined                     no-undef
+   30:87   warning  'd1' is not defined                     no-undef
+   30:110  warning  'd2' is not defined                     no-undef
+   30:121  warning  'act2_f' is not defined                 no-undef
+  156:5    warning  'maindiv' is not defined                no-undef
+  158:24   warning  'show_step' is not defined              no-undef
+  159:24   warning  'MathJax' is not defined                no-undef
+  162:5    warning  'a1' is not defined                     no-undef
+  162:35   warning  'd1' is not defined                     no-undef
+  163:5    warning  'a2' is not defined                     no-undef
+  163:35   warning  'd2' is not defined                     no-undef
+  164:5    warning  'r' is not defined                      no-undef
+  164:9    warning  'a2' is not defined                     no-undef
+  164:14   warning  'a1' is not defined                     no-undef
+  165:5    warning  'z' is not defined                      no-undef
+  165:19   warning  'g' is not defined                      no-undef
+  165:42   warning  'r' is not defined                      no-undef
+  165:56   warning  'g' is not defined                      no-undef
+  165:68   warning  'act2_f' is not defined                 no-undef
+  165:77   warning  'l1' is not defined                     no-undef
+  165:91   warning  'r' is not defined                      no-undef
+  165:105  warning  'g' is not defined                      no-undef
+  165:109  warning  'd1' is not defined                     no-undef
+  165:127  warning  'r' is not defined                      no-undef
+  165:145  warning  'g' is not defined                      no-undef
+  165:157  warning  'act2_f' is not defined                 no-undef
+  165:166  warning  'l2' is not defined                     no-undef
+  165:177  warning  'g' is not defined                      no-undef
+  165:181  warning  'd2' is not defined                     no-undef
+  166:5    warning  'act2_v2' is not defined                no-undef
+  166:25   warning  'H' is not defined                      no-undef
+  166:29   warning  'z' is not defined                      no-undef
+  167:5    warning  'act2_v1' is not defined                no-undef
+  167:16   warning  'a2' is not defined                     no-undef
+  167:21   warning  'act2_v2' is not defined                no-undef
+  167:32   warning  'a1' is not defined                     no-undef
+  168:5    warning  'act2_h1' is not defined                no-undef
+  168:31   warning  'act2_v1' is not defined                no-undef
+  168:51   warning  'g' is not defined                      no-undef
+  169:5    warning  'act2_h2' is not defined                no-undef
+  169:20   warning  'act2_f' is not defined                 no-undef
+  169:29   warning  'l1' is not defined                     no-undef
+  169:44   warning  'act2_v1' is not defined                no-undef
+  169:65   warning  'g' is not defined                      no-undef
+  169:70   warning  'd1' is not defined                     no-undef
+  170:5    warning  'act2_h3' is not defined                no-undef
+  170:25   warning  'act2_v1' is not defined                no-undef
+  170:35   warning  'act2_v2' is not defined                no-undef
+  170:55   warning  'g' is not defined                      no-undef
+  171:5    warning  'act2_h4' is not defined                no-undef
+  171:20   warning  'act2_f' is not defined                 no-undef
+  171:29   warning  'l2' is not defined                     no-undef
+  171:44   warning  'act2_v2' is not defined                no-undef
+  171:65   warning  'g' is not defined                      no-undef
+  171:70   warning  'd2' is not defined                     no-undef
+  172:5    warning  'act2_bg' is not defined                no-undef
+  172:24   warning  'act2_v1' is not defined                no-undef
+  172:43   warning  'g' is not defined                      no-undef
+  173:5    warning  'act2_ch' is not defined                no-undef
+  173:15   warning  'act2_v1' is not defined                no-undef
+  173:30   warning  'g' is not defined                      no-undef
+  174:5    warning  'act2_di' is not defined                no-undef
+  174:24   warning  'act2_v2' is not defined                no-undef
+  174:43   warning  'g' is not defined                      no-undef
+  175:5    warning  'act2_ef' is not defined                no-undef
+  175:15   warning  'act2_v2' is not defined                no-undef
+  175:30   warning  'g' is not defined                      no-undef
+  177:10   warning  'verify1' is defined but never used     no-unused-vars
+  179:26   warning  'a1' is not defined                     no-undef
+  180:26   warning  'a2' is not defined                     no-undef
+  181:25   warning  'r' is not defined                      no-undef
+  182:25   warning  'z' is not defined                      no-undef
+  183:31   warning  'act2_v2' is not defined                no-undef
+  184:31   warning  'act2_v1' is not defined                no-undef
+  185:31   warning  'act2_h1' is not defined                no-undef
+  186:31   warning  'act2_h2' is not defined                no-undef
+  187:31   warning  'act2_h3' is not defined                no-undef
+  188:31   warning  'act2_h4' is not defined                no-undef
+  189:31   warning  'act2_bg' is not defined                no-undef
+  190:31   warning  'act2_ch' is not defined                no-undef
+  191:31   warning  'act2_di' is not defined                no-undef
+  192:31   warning  'act2_ef' is not defined                no-undef
+  217:10   warning  'verify_values' is not defined          no-undef
+  217:82   warning  'a1' is not defined                     no-undef
+  221:10   warning  'verify_values' is not defined          no-undef
+  221:82   warning  'a2' is not defined                     no-undef
+  225:10   warning  'verify_values' is not defined          no-undef
+  225:82   warning  'act2_v2' is not defined                no-undef
+  229:10   warning  'verify_values' is not defined          no-undef
+  229:82   warning  'act2_v1' is not defined                no-undef
+  233:10   warning  'verify_values' is not defined          no-undef
+  233:82   warning  'act2_h1' is not defined                no-undef
+  237:10   warning  'verify_values' is not defined          no-undef
+  237:82   warning  'act2_h2' is not defined                no-undef
+  241:10   warning  'verify_values' is not defined          no-undef
+  241:82   warning  'act2_h3' is not defined                no-undef
+  245:10   warning  'verify_values' is not defined          no-undef
+  245:82   warning  'act2_h4' is not defined                no-undef
+  249:10   warning  'verify_values' is not defined          no-undef
+  249:82   warning  'act2_bg' is not defined                no-undef
+  253:10   warning  'verify_values' is not defined          no-undef
+  253:83   warning  'act2_ch' is not defined                no-undef
+  257:10   warning  'verify_values' is not defined          no-undef
+  257:83   warning  'act2_di' is not defined                no-undef
+  261:10   warning  'verify_values' is not defined          no-undef
+  261:83   warning  'act2_ef' is not defined                no-undef
+  267:25   warning  'a1' is not defined                     no-undef
+  269:25   warning  'a2' is not defined                     no-undef
+  271:25   warning  'act2_v2' is not defined                no-undef
+  273:25   warning  'act2_v1' is not defined                no-undef
+  275:25   warning  'act2_h1' is not defined                no-undef
+  277:25   warning  'act2_h2' is not defined                no-undef
+  279:25   warning  'act2_h3' is not defined                no-undef
+  281:25   warning  'act2_h4' is not defined                no-undef
+  283:25   warning  'act2_bg' is not defined                no-undef
+  285:26   warning  'act2_ch' is not defined                no-undef
+  287:26   warning  'act2_di' is not defined                no-undef
+  289:26   warning  'act2_ef' is not defined                no-undef
+  292:5    warning  'activity3' is not defined              no-undef
+
+/home/runner/work/exp-hydraulic-gradient-iitb/exp-hydraulic-gradient-iitb/experiment/simulation/js/activity3.js
+    1:10   warning  'activity3' is defined but never used   no-unused-vars
+   16:5    warning  'maindiv' is not defined                no-undef
+   17:24   warning  'MathJax' is not defined                no-undef
+   19:10   warning  'start_act3' is defined but never used  no-unused-vars
+   24:20   warning  'get_collapse_btn_text' is not defined  no-undef
+   30:31   warning  'act3_h1' is not defined                no-undef
+   30:59   warning  'act3_h2' is not defined                no-undef
+   30:75   warning  'act3_l' is not defined                 no-undef
+   30:90   warning  'act3_d' is not defined                 no-undef
+   30:105  warning  'act3_f' is not defined                 no-undef
+  105:5    warning  'maindiv' is not defined                no-undef
+  107:24   warning  'show_step' is not defined              no-undef
+  108:24   warning  'MathJax' is not defined                no-undef
+  111:5    warning  'act3_a' is not defined                 no-undef
+  111:39   warning  'act3_d' is not defined                 no-undef
+  112:5    warning  'act3_v' is not defined                 no-undef
+  112:25   warning  'act3_h1' is not defined                no-undef
+  112:35   warning  'act3_h2' is not defined                no-undef
+  112:60   warning  'g' is not defined                      no-undef
+  112:72   warning  'act3_f' is not defined                 no-undef
+  112:81   warning  'act3_l' is not defined                 no-undef
+  112:96   warning  'g' is not defined                      no-undef
+  112:100  warning  'act3_d' is not defined                 no-undef
+  113:5    warning  'act3_h1_cal' is not defined            no-undef
+  113:35   warning  'act3_v' is not defined                 no-undef
+  113:54   warning  'g' is not defined                      no-undef
+  114:5    warning  'act3_h2_cal' is not defined            no-undef
+  114:24   warning  'act3_f' is not defined                 no-undef
+  114:33   warning  'act3_l' is not defined                 no-undef
+  114:52   warning  'act3_v' is not defined                 no-undef
+  114:72   warning  'g' is not defined                      no-undef
+  114:77   warning  'act3_d' is not defined                 no-undef
+  115:5    warning  'act3_h3_cal' is not defined            no-undef
+  115:28   warning  'act3_v' is not defined                 no-undef
+  115:46   warning  'g' is not defined                      no-undef
+  116:5    warning  'act3_be' is not defined                no-undef
+  116:24   warning  'act3_v' is not defined                 no-undef
+  116:42   warning  'g' is not defined                      no-undef
+  117:5    warning  'act3_cd' is not defined                no-undef
+  117:24   warning  'act3_v' is not defined                 no-undef
+  117:42   warning  'g' is not defined                      no-undef
+  119:10   warning  'verify2' is defined but never used     no-unused-vars
+  121:30   warning  'act3_a' is not defined                 no-undef
+  122:30   warning  'act3_v' is not defined                 no-undef
+  123:35   warning  'act3_h1_cal' is not defined            no-undef
+  124:35   warning  'act3_h2_cal' is not defined            no-undef
+  125:35   warning  'act3_h3_cal' is not defined            no-undef
+  126:31   warning  'act3_be' is not defined                no-undef
+  127:31   warning  'act3_cd' is not defined                no-undef
+  140:10   warning  'verify_values' is not defined          no-undef
+  140:82   warning  'act3_v' is not defined                 no-undef
+  144:10   warning  'verify_values' is not defined          no-undef
+  144:82   warning  'act3_h1_cal' is not defined            no-undef
+  148:10   warning  'verify_values' is not defined          no-undef
+  148:82   warning  'act3_h2_cal' is not defined            no-undef
+  152:10   warning  'verify_values' is not defined          no-undef
+  152:82   warning  'act3_h3_cal' is not defined            no-undef
+  156:10   warning  'verify_values' is not defined          no-undef
+  156:82   warning  'act3_be' is not defined                no-undef
+  160:10   warning  'verify_values' is not defined          no-undef
+  160:82   warning  'act3_cd' is not defined                no-undef
+  166:25   warning  'act3_v' is not defined                 no-undef
+  168:25   warning  'act3_h1_cal' is not defined            no-undef
+  170:25   warning  'act3_h2_cal' is not defined            no-undef
+  172:25   warning  'act3_h3_cal' is not defined            no-undef
+  174:25   warning  'act3_be' is not defined                no-undef
+  176:25   warning  'act3_cd' is not defined                no-undef
+
+/home/runner/work/exp-hydraulic-gradient-iitb/exp-hydraulic-gradient-iitb/experiment/simulation/js/data.js
+   2:5  warning  'g' is assigned a value but never used                 no-unused-vars
+   4:5  warning  'd' is assigned a value but never used                 no-unused-vars
+   5:5  warning  'l' is assigned a value but never used                 no-unused-vars
+   6:5  warning  'h' is assigned a value but never used                 no-unused-vars
+   7:5  warning  'f' is assigned a value but never used                 no-unused-vars
+   8:5  warning  'v2' is assigned a value but never used                no-unused-vars
+   9:5  warning  'h1' is assigned a value but never used                no-unused-vars
+  10:5  warning  'h2' is assigned a value but never used                no-unused-vars
+  11:5  warning  'eg' is assigned a value but never used                no-unused-vars
+  12:5  warning  'fc' is assigned a value but never used                no-unused-vars
+  14:5  warning  'H' is assigned a value but never used                 no-unused-vars
+  15:5  warning  'l1' is assigned a value but never used                no-unused-vars
+  16:5  warning  'l2' is assigned a value but never used                no-unused-vars
+  17:5  warning  'd1' is assigned a value but never used                no-unused-vars
+  18:5  warning  'd2' is assigned a value but never used                no-unused-vars
+  19:5  warning  'act2_f' is assigned a value but never used            no-unused-vars
+  20:5  warning  'a1' is assigned a value but never used                no-unused-vars
+  21:5  warning  'a2' is assigned a value but never used                no-unused-vars
+  22:5  warning  'r' is assigned a value but never used                 no-unused-vars
+  23:5  warning  'z' is assigned a value but never used                 no-unused-vars
+  24:5  warning  'act2_v1' is assigned a value but never used           no-unused-vars
+  25:5  warning  'act2_v2' is assigned a value but never used           no-unused-vars
+  26:5  warning  'act2_h1' is assigned a value but never used           no-unused-vars
+  27:5  warning  'act2_h2' is assigned a value but never used           no-unused-vars
+  28:5  warning  'act2_h3' is assigned a value but never used           no-unused-vars
+  29:5  warning  'act2_h4' is assigned a value but never used           no-unused-vars
+  30:5  warning  'act2_bg' is assigned a value but never used           no-unused-vars
+  31:5  warning  'act2_ch' is assigned a value but never used           no-unused-vars
+  32:5  warning  'act2_di' is assigned a value but never used           no-unused-vars
+  33:5  warning  'act2_ef' is assigned a value but never used           no-unused-vars
+  35:5  warning  'act3_h1' is assigned a value but never used           no-unused-vars
+  36:5  warning  'act3_h2' is assigned a value but never used           no-unused-vars
+  37:5  warning  'act3_l' is assigned a value but never used            no-unused-vars
+  38:5  warning  'act3_d' is assigned a value but never used            no-unused-vars
+  39:5  warning  'act3_f' is assigned a value but never used            no-unused-vars
+  40:5  warning  'act3_v' is assigned a value but never used            no-unused-vars
+  41:5  warning  'act3_a' is assigned a value but never used            no-unused-vars
+  42:5  warning  'act3_h1_cal' is assigned a value but never used       no-unused-vars
+  43:5  warning  'act3_h2_cal' is assigned a value but never used       no-unused-vars
+  44:5  warning  'act3_h3_cal' is assigned a value but never used       no-unused-vars
+  45:5  warning  'act3_be' is assigned a value but never used           no-unused-vars
+  46:5  warning  'act3_cd' is assigned a value but never used           no-unused-vars
+  48:5  warning  'act4_cd' is assigned a value but never used           no-unused-vars
+  49:5  warning  'act4_L1' is assigned a value but never used           no-unused-vars
+  50:5  warning  'act4_L2' is assigned a value but never used           no-unused-vars
+  51:5  warning  'act4_L3' is assigned a value but never used           no-unused-vars
+  52:5  warning  'act4_H1' is assigned a value but never used           no-unused-vars
+  53:5  warning  'act4_H2' is assigned a value but never used           no-unused-vars
+  54:5  warning  'act4_H3' is assigned a value but never used           no-unused-vars
+  55:5  warning  'act4_Q1' is assigned a value but never used           no-unused-vars
+  56:5  warning  'act4_Q2' is assigned a value but never used           no-unused-vars
+  57:5  warning  'act4_Q3' is assigned a value but never used           no-unused-vars
+  58:5  warning  'act4_Q1_lit' is assigned a value but never used       no-unused-vars
+  59:5  warning  'act4_Q2_lit' is assigned a value but never used       no-unused-vars
+  60:5  warning  'act4_Q3_lit' is assigned a value but never used       no-unused-vars
+  61:5  warning  'act4_Q_total_lit' is assigned a value but never used  no-unused-vars
+
+✖ 354 problems (0 errors, 354 warnings)
+

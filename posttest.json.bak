@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Find HGL. Water is flowing through a pipe of diameter 26m and length 53m, when one end of the pipe is connected to a tank and other end is open to the atmosphere. The height of water level in the tank is 4m above the centre of the pipe. Consider all minor losses. Take f = 0.006, take rho = 1000kg/m<sup>3</sup>.",
+      "qid": 1,
+      "option_a": "0.751m",
+      "option_b": "1.069m",
+      "option_c": "0.625m",
+      "option_d": "0.952m",
+      "correct_option": "c"
+   },
+   {
+      "question": "Find HGL. Water is flowing through a pipe of diameter 28m and length 43m, when one end of the pipe is connected to a tank and other end is open to the atmosphere. The height of water level in the tank is 5m above the centre of the pipe. Consider all minor losses. Take f = 0.006 and take rho = 1000kg/m<sup>3</sup>.",
+      "qid": 2,
+      "option_a": "0.737m",
+      "option_b": "0.964m",
+      "option_c": "1.172m",
+      "option_d": "0.794m",
+      "correct_option": "b"
+   }
+]
