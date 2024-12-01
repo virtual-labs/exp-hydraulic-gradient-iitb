@@ -1,0 +1,29 @@
+[
+    {
+        "question": "Loss due to sudden enlargement is given by",
+        "qid": 1,
+        "option_a": "$$ \\frac{(v_1 -v_2)}{2g} $$",
+        "option_b": "$$ \\frac{(v_1 -v_2)^2}{g} $$",
+        "option_c": "$$ \\frac{(v_1 -v_2)^2}{2g} $$",
+        "option_d": "$$ \\frac{(v_1 -v_2)}{2} $$",
+        "correct_option": "c"
+    },
+    {
+        "question": "Loss due to sudden contraction is given by",
+        "qid": 2,
+        "option_a": "$$ 0.5 \\frac{v_2^2}{2g} $$",
+        "option_b": "$$ 1 \\frac{v_2^2}{2g} $$",
+        "option_c": "$$ 0.5 \\frac{v_2}{2g} $$",
+        "option_d": "$$ 0.5 \\frac{v_2^2}{2} $$",
+        "correct_option": "a"
+    },
+    {
+        "question": "Exit head loss is given by",
+        "qid": 3,
+        "option_a": "$$ \\frac{v}{2g} $$",
+        "option_b": "$$ \\frac{v^2}{2g} $$",
+        "option_c": "$$ \\frac{v^2}{g} $$",
+        "option_d": "$$ \\frac{v^2}{2} $$",
+        "correct_option": "b"
+    }
+]
